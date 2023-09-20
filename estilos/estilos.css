@@ -1,0 +1,12 @@
+.logo {
+    width: 80px;
+    border-radius: 50%;
+}
+
+.colornav {
+    background-color: rgba(247, 186, 206, 0.712);
+}
+
+.fondo {
+    background-image: url("/imagenes/fondo.png");
+}
