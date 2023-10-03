@@ -21,6 +21,14 @@ footer{
     p {
         font-size: 18px;
     }
+    img{
+        transition: all 1s;
+        position: relative;
+    }
+    img:hover{
+        scale: 1.1;
+        z-index: 2;
+    }
 }
 
 body{

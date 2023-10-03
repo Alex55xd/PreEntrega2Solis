@@ -29,7 +29,19 @@ footer p {
   font-size: 18px;
 }
 
-/* line 27, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+/* line 24, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+footer img {
+  transition: all 1s;
+  position: relative;
+}
+
+/* line 28, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+footer img:hover {
+  scale: 1.1;
+  z-index: 2;
+}
+
+/* line 35, ../PreEntrega2Solis/estilos/sass/estilos.scss */
 body p {
   font-style: italic;
 }
