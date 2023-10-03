@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "estilos.css",
+	"sources": [
+		"../sass/estilos.scss"
+	],
+	"sourcesContent": [
+		".logo {\r\n    width: 80px;\r\n    border-radius: 50%;\r\n}\r\n\r\n.colornav {\r\n    background-color: rgba(247, 186, 206, 0.712);\r\n}\r\n\r\n.fondo {\r\n    background-image: url(\"/imagenes/fondo.png\");\r\n}\r\n\r\nfooter{\r\n    h1{\r\n        margin-left: 15px;\r\n    }\r\n    h2{\r\n        color: rgb(250, 126, 147);\r\n    }\r\n    p {\r\n        font-size: 18px;\r\n    }\r\n}\r\n\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,KAAK,CAAC;EACF,KAAK,EAAE,IAAI;EACX,aAAa,EAAE,GAAG;CACrB;;;AAED,AAAA,SAAS,CAAC;EACN,gBAAgB,EAAE,0BAA0B;CAC/C;;;AAED,AAAA,MAAM,CAAC;EACH,gBAAgB,EAAE,0BAA0B;CAC/C;;;AAED,AACI,MADE,CACF,EAAE,CAAA;EACE,WAAW,EAAE,IAAI;CACpB;;;AAHL,AAII,MAJE,CAIF,EAAE,CAAA;EACE,KAAK,EAAE,OAAkB;CAC5B;;;AANL,AAOI,MAPE,CAOF,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;CAClB"
+}

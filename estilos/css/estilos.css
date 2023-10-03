@@ -1,0 +1,32 @@
+/* line 1, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+.logo {
+  width: 80px;
+  border-radius: 50%;
+}
+
+/* line 6, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+.colornav {
+  background-color: rgba(247, 186, 206, 0.712);
+}
+
+/* line 10, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+.fondo {
+  background-image: url("/imagenes/fondo.png");
+}
+
+/* line 15, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+footer h1 {
+  margin-left: 15px;
+}
+
+/* line 18, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+footer h2 {
+  color: #fa7e93;
+}
+
+/* line 21, ../PreEntrega2Solis/estilos/sass/estilos.scss */
+footer p {
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=estilos.css.map */
